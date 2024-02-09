@@ -1,6 +1,7 @@
 Cat and Dog Image Classifier using Data Science
 
 This project is an image classifier built using convolutional neural networks (CNNs) to classify images as either cats or dogs.
+
 Table of Contents
 
     Introduction
@@ -14,6 +15,7 @@ Table of Contents
 Introduction
 
 This project aims to classify images as either cats or dogs using deep learning techniques. We trained a convolutional neural network (CNN) on a dataset consisting of thousands of cat and dog images. The model achieves high accuracy in distinguishing between the two classes.
+
 Requirements
 
     Python 3.7 or higher
