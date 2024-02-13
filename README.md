@@ -7,7 +7,6 @@ Introduction
 This project aims to classify images as either cats or dogs using deep learning techniques. We trained a convolutional neural network (CNN) on a dataset consisting of thousands of cat and dog images. The model achieves high accuracy in distinguishing between the two classes.
 
 Requirements
-
     Python 3.7 or higher
     TensorFlow 2.5.0
     Keras 2.4.3
